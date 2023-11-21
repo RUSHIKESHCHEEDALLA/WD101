@@ -8,7 +8,6 @@ const retrieveEntries = () => {
     return [];
   }
 };
-
 let userEntries = retrieveEntries();
 
 const displayEntries = () => {
